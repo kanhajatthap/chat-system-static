@@ -1,2 +1,2 @@
 ## Repsonsive Chat Website - HTML CSS Javascript
-##### Preview: https://fajarnurwahid.github.io/chat/"# chat-system-static" 
+##### Preview: https://chat-system-static-skype.vercel.app/ # chat-system-static" 
